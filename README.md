@@ -1,6 +1,6 @@
 ## DoubanGroup_Spider
-### This is a Douban group crawler project,you can use this to get a group of posts title,content,comments and other data.<br>
-### Cheng Yuda and I completed the Douban crawler project together.<br>
+### This is a Douban group crawler and data analysis project.<br>
+### Cheng Yuda and I completed this project together.<br>
 ***
 **Project introduction:** We selected the post data of Douban Tourism success and failure group for network data analysis,and finally presented our analysis results in the form of a report.<br>
 **Involved aspect:** Our project code involves web crwaler,data cleaning,data descriptive analysis,text word frequency and word cloud analysis,TF-IDF keyword extraction,sentiment analysis,co-occurence network analysis,IDA theme modeling,etc.
@@ -14,8 +14,8 @@ File named gx_Ida for co-occurrence Semantic network analysis, Tf-idf analysis, 
 ***
 *We upload this project for learning together,if you have any questions,please feel free to contact us.My email address is:2724113727@qq.com*
 ***
-### 这是一个豆瓣小组爬虫项目，你可以用它来获取一组小组帖子标题、内容、评论等数据。
-### Cheng Yuda和我共同完成了这个豆瓣爬虫项目。
+### 这是一个豆瓣小组爬虫及数据分析项目。
+### Cheng Yuda和我共同完成了这个项目。
 ***
 **项目介绍**：我们选择了豆瓣旅游成功和失败小组的帖子数据作为网络数据分析，最终以报告的形式呈现我们的分析结果。
 **涉及方面**：我们的项目代码涉及网络爬虫、数据清洗、数据描述性分析、文本词频和词云分析、TF-IDF关键词提取、情感分析、共现网络分析、IDA主题建模等。
